@@ -1,0 +1,15 @@
+{
+  "name": "mean-note",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Annunziato",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "mongoose": "^4.4.16"
+  }
+}
